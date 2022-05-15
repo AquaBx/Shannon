@@ -4,6 +4,6 @@
 
 | Languages                        |
 |----------------------------------|
-| [Python]("./Prépa%20L1/Python")  |
-| [Bash]("./Prépa%20L1/Bash")      |
-| [Matlab]("./Prépa%20L1/Matlab")  |
+| [Python](/Prépa%20L1/Python)  |
+| [Bash](/Prépa%20L1/Bash)      |
+| [Matlab](/Prépa%20L1/Matlab)  |
