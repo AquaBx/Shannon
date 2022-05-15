@@ -5,8 +5,8 @@
 
 | Languages                        |
 |----------------------------------|
-| [Python](/Première NSI/Python)   |
-| [HTML](/Première NSI/HTML)       |
+| [Python](/Première%20NSI/Python)   |
+| [HTML](/Première%20NSI/HTML)       |
 
 ---
 
