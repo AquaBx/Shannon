@@ -1,4 +1,4 @@
-# Projets-ESIR
+# School-Projects
 
 
 ## Première NSI : 2019-2020
